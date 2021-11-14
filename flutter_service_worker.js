@@ -1,7 +1,7 @@
 'use strict';
 const MANIFEST = 'flutter-app-manifest';
-const TEMP = 'flutter-temp-cache';
-const CACHE_NAME = 'flutter-app-cache';
+var TEMP = 'flutter-temp-cache';
+var CACHE_NAME = 'flutter-app-cache';
 var RESOURCES = {
   "assets/AssetManifest.json": "ddd7a73aaa40b8cdb4cbf135fe7c938b",
 "assets/ast/1.png": "890fc841adf527110f59d6def36ea5a1",
