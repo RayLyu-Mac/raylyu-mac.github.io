@@ -12,7 +12,7 @@ const RESOURCES = {
 "assets/ast/6.png": "17b0a8b09150fc98522c20798b0427ca",
 "assets/ast/7.png": "a93ecd382b5095e38b4029d21b562a87",
 "assets/ast/8.png": "599bde9cd701243c523a21cfb72afc37",
-"assets/ast/csv/bio.csv": "44367389620c0a55c47528dc4fbbfe28",
+"assets/ast/csv/bio.csv": "44367389620c0a55c47528dc4fbbfe27",
 "assets/ast/csv/code.csv": "44367389620c0a55c47528dc4fbbfe28",
 "assets/ast/csv/manu.csv": "44367389620c0a55c47528dc4fbbfe28",
 "assets/ast/csv/res.csv": "44367389620c0a55c47528dc4fbbfe28",
